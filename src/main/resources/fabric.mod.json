@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "fegex",
+  "version": "${version}",
+  "name": "Fegex",
+  "description": "Mod that adds regex into Figura scripting",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "figura_api": [
+      "org.lexize.fegex.Fegex"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "figura": ">=0.1.0-rc.7"
+  }
+}
