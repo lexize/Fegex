@@ -74,7 +74,7 @@ Return groups of match.
 
 #### FegexGroup
 `start() - Integer`\
-Returns start index of stoup.
+Returns start index of group.
 
 `end() - Integer`\
 Return end index of group.
