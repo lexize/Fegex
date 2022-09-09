@@ -1,6 +1,8 @@
 # Fegex
 Addon that adds Regex into Figura.
 
+**Archived, because was merged with [LUtils](https://github.com/lexize/lutils)**
+
 #### Example
 ```lua
 local regex = fegex;
